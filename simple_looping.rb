@@ -9,7 +9,6 @@ def loop_iterator(number_of_times)
     counter +=1
     puts phrase
     break if counter == phrase
-  end
 end
 loop_iterator(3)
 
