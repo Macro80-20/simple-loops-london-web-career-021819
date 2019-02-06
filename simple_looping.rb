@@ -30,7 +30,7 @@ phrase = "Welcome to Flatiron School's Web Development Course!"
   number_of_times.times.do
     puts ""
   end
-  
+
 
 end
 
