@@ -6,7 +6,7 @@ def loop_iterator(number_of_times)
     puts phrase
     number_of_times+=
     break if counter == 7
-  
+
 end
   loop_iterator(5)
   # Code your solution here using the "loop" keyword to puts out the below phrase
