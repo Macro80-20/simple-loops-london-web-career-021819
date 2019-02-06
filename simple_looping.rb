@@ -8,7 +8,7 @@ def loop_iterator(number_of_times)
 if number_of_times == 7
   break
 end
-end
+
   loop_iterator(5)
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer
