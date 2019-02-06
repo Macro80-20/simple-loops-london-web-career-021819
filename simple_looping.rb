@@ -2,7 +2,7 @@
 
 def loop_iterator(number_of_times)
   #a counter to start at 0 then we keep looping till we hit the specfic
-  #amount of times 
+  #amount of times
   phrase = "Welcome to Flatiron School's Web Development Course!"
   counter = 0
   loop do
@@ -10,8 +10,8 @@ def loop_iterator(number_of_times)
     puts phrase
     break if counter == phrase
   end
-    
-  
+
+
 # Code your solution here using the "loop" keyword to puts out the below phrase
 # This and all the other methods take an argument of an integer
 # The integer is the number of times the loops should puts out the phrase
